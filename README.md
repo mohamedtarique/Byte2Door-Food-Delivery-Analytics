@@ -48,6 +48,7 @@ This enabled the creation of business KPIs used throughout the analysis.
 3️⃣ **Exploratory Data Analysis (EDA)**
 
 I started with fundamental business understanding:
+
 ✔ Customer insights
 - Total distinct customers
 - Age distribution (18–25, 26–30, etc.)
@@ -70,20 +71,20 @@ This phase helped reveal customer behaviour, cuisine trends, and platform growth
 
 
 4️⃣ **Deep-Dive Business Analysis**
-- 🔹 A. Retention Analysis (Last 3 Months)
+🔹 A. Retention Analysis (Last 3 Months)
 Used self-joins to measure month-over-month retention:
 
-- 🔹 B. Churn Analysis
+  🔹 B. Churn Analysis
 Calculated customers who did not return in the next month.
 
-- 🔹 C. Customer Segmentation (Age Buckets)
+  🔹 C. Customer Segmentation (Age Buckets)
 - Grouped customers into age bins Then I calculated:
 - Distribution of customers in each segment
 % of total orders contributed by each age group
 
 This revealed which age segments are highest drivers of revenue and order volume.
 
-- 🔹 D. Cuisine & Product Analysis
+🔹 D. Cuisine & Product Analysis
 - Top 5 ordered dishes
 - Top 3 cuisines
 - Average amount spent on top dishes
@@ -108,6 +109,7 @@ This was one of the most advanced part of this project.
 
 
 **Final Business Insights and summary**
+
 👥 Customer Insights
 - 🔹 48% of all customers are between 40–60 years
 - 🔹 Young users (18–40) have significantly lower presence & order contribution
