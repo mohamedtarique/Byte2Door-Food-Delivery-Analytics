@@ -16,6 +16,7 @@ I used INFORMATION_SCHEMA to inspect:
 
 This gave me a clear map of:
 Tables involved: customers, restaurants, products, orders
+
 <img width="817" height="489" alt="image" src="https://github.com/user-attachments/assets/dd55fabc-82c2-4533-85c2-cd0d3c6cbbdc" />
 
 
@@ -44,7 +45,7 @@ Next, I classified the dataset into:
 This enabled the creation of business KPIs used throughout the analysis.
 
 
-3️⃣ Exploratory Data Analysis (EDA)
+3️⃣ **Exploratory Data Analysis (EDA)**
 
 I started with fundamental business understanding:
 ✔ Customer insights
@@ -68,7 +69,7 @@ I started with fundamental business understanding:
 This phase helped reveal customer behaviour, cuisine trends, and platform growth patterns.
 
 
-4️⃣ Deep-Dive Business Analysis
+4️⃣ **Deep-Dive Business Analysis**
 - 🔹 A. Retention Analysis (Last 3 Months)
 Used self-joins to measure month-over-month retention:
 
@@ -89,7 +90,7 @@ This revealed which age segments are highest drivers of revenue and order volume
 These insights determine product-level performance & menu strategy.
 
 
-5️⃣ Distance-Based Operational Analysis
+5️⃣ **Distance-Based Operational Analysis**
 This was one of the most advanced part of this project.
 
 ✔ Calculated distance between restaurant & customer
@@ -106,7 +107,7 @@ This was one of the most advanced part of this project.
 - Performance drop-off for long-distance deliveries
 
 
-Final Business Insights and summary
+**Final Business Insights and summary**
 👥 Customer Insights
 - 🔹 48% of all customers are between 40–60 years
 - 🔹 Young users (18–40) have significantly lower presence & order contribution
@@ -135,12 +136,12 @@ Final Business Insights and summary
 - 🔹 Average delivery distance: 3 km
 - 🔹 70% of deliveries are within 4 km
 
-Summary:
+**Summary:**
 - Customer acquisition is stagnant, and younger audiences are not being captured, threatening long-term growth.
 - Order volume and revenue are flat, showing that existing customers are not increasing their usage.
 - High churn and low retention highlight an urgent need to improve customer experience and loyalty.
 
-To improve the Business the company has to focus on 
+**To improve the Business the company has to focus on**
 - Boosting new customer acquisition, especially among younger demographics.
 - Improve retention through personalized offers, loyalty programs, and better engagement.
 - Diversify the customer base to reduce reliance on the 40–60 age group.
